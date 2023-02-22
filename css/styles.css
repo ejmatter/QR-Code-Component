@@ -7,14 +7,18 @@ body {
 /******Class Selectors******/
 .attribution { 
     font-size: 11px;
-    margin-top: 60px;
+    margin-top: 40px;
+    margin-right: 85px;
     text-align: center;
 }
 
 .attribution a {
-     color: hsl(228, 45%, 44%); 
+     color: hsl(228, 45%, 44%);
+     text-decoration: none; 
     }
-
+.attribution a:hover {
+    color: hsl(0, 0%, 100%);
+}
 .background-container {
     background-color: hsl(212, 45%, 89%);
     display: inline-block;
