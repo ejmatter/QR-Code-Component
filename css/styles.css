@@ -50,4 +50,28 @@ body {
     margin-left: 475px;
     position: relative;
 }
-/******ID Selectors******/
+
+@media screen and (max-width: 896px){
+    .attribution { 
+      font-size: 11px;
+      margin-top: 40px;
+      margin-right: 10px;
+      text-align: center;
+  }
+    .background-container {
+        background-color: hsl(212, 45%, 89%);
+        display: inline-block;
+        height: 23.4375rem;
+        width: 23.4375rem;
+        }
+    .content-container {
+        background-color: hsl(0, 0%, 100%);
+        border-radius: 25px;
+        display: inline-block;
+        height: 37.5rem;
+        width: 25rem;
+        margin-top: 145px; 
+        margin-left: 5PX;
+        position: relative;
+    }
+  }
