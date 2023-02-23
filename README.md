@@ -23,7 +23,7 @@ I took this challenge from Front End Mentors to improve both my programming and 
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/qr-component-created-using-html-and-css-xRzi5x8gnu
 - Live Site URL: https://ejmatter.github.io/QR-Code-Component/
 
 ## My process
