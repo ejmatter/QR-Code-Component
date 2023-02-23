@@ -52,7 +52,7 @@ body {
     position: relative;
 }
 
-@media screen and (max-width: 896px){
+@media screen and (max-width: 1170px){
     .attribution { 
       font-size: 11px;
       margin-top: 40px;
